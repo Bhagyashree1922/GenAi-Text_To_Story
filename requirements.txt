@@ -1,4 +1,4 @@
-transfoemers
+transformers
 torch
 langchain
 groq
